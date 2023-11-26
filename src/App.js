@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="#"
+            href="https://suthethnin.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="#"
+            href="https://github.com/Zahra13s/react-final"
             target="_blank"
             rel="noopener noreferrer"
           >
